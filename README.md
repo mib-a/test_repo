@@ -8,5 +8,10 @@
 
 ## Some Important Shortcuts
   - when u r in a repository:
-      - .: VS Code
-      - 
+      - "." : VS Code
+   
+
+## Folder and File Organization: 
+  - can't add files to a file
+  - for folder use a "/" at the last
+  - for file: don't write names, just drop the file 
